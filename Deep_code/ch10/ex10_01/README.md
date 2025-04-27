@@ -1,3 +1,5 @@
+# 10.1 객체란?
+
 ```javascript
 var empty = {}; // 빈 객체
 console.log(typeof empty); // object
